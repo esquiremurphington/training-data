@@ -1,21 +1,21 @@
 {
-  "last_sync_utc": "2026-06-14T07:01:45.825371+00:00",
-  "last_sync_sgt": "2026-06-14 15:01 SGT",
+  "last_sync_utc": "2026-06-14T07:12:03.968708+00:00",
+  "last_sync_sgt": "2026-06-14 15:12 SGT",
   "ftp": 315,
   "w_prime": 26200,
   "weight_ref_kg": 76.9,
   "schema_version": 1,
   "files": {
-    "daily_health": "daily_health.csv",
     "cycling_deep": "cycling_deep.csv",
     "lap_data": "lap_data.csv",
+    "daily_health": "daily_health.csv",
     "nutrition": "nutrition.csv",
     "cycling_ability": "cycling_ability.csv"
   },
   "rows": {
-    "daily_health": 163,
     "cycling_deep": 113,
     "lap_data": 597,
+    "daily_health": 163,
     "nutrition": 163,
     "cycling_ability": 28
   }
