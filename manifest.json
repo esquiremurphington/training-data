@@ -1,11 +1,15 @@
 {
-  "last_sync_utc": "2026-08-05T05:00:59.036412+00:00",
-  "last_sync_sgt": "2026-08-05 13:00 SGT",
+  "last_sync_utc": "2026-08-05T07:46:18.223293+00:00",
+  "last_sync_sgt": "2026-08-05 15:46 SGT",
   "ftp": 315,
   "w_prime": 24000,
   "w_prime_tau": 546,
   "weight_ref_kg": 76.9,
-  "schema_version": 2,
+  "lthr_run": 172,
+  "lthr_run_provisional": true,
+  "hr_max": 191,
+  "rhr_ref": 48,
+  "schema_version": 3,
   "cp": 308,
   "files": {
     "cycling_deep": "cycling_deep.csv",
