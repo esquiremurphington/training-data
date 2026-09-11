@@ -1,4 +1,4 @@
 date,activity_id,title,sport_type,distance_km,duration_min,elevation_m,avg_hr,max_hr,hr_reserve_pct,avg_pace_min_km,hr_tss,trimp,eccentric_flag,days_since_prev_run,provisional
 2026-08-06,23875472147,Singapore Running,running,10.48,229.7,33.4,76.0,138.0,19.6,21.92,19.5,41.9,0,0,1
 2026-08-09,23911159984,Singapore Running,running,10.01,45.7,13.8,150.0,171.0,71.3,4.57,51.5,82.1,0,0,1
-2026-09-10,24307732236,Singapore Running,running,2.51,37.4,8.7,77.0,129.0,20.3,14.9,3.4,7.2,1,32,1
+2026-09-10,24307732236,Singapore Running,running,2.51,37.4,8.7,77.0,129.0,20.3,14.9,3.4,7.2,0,0,1
