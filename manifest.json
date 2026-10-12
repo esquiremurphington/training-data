@@ -1,6 +1,6 @@
 {
-  "last_sync_utc": "2026-10-11T05:00:58.706136+00:00",
-  "last_sync_sgt": "2026-10-11 13:00 SGT",
+  "last_sync_utc": "2026-10-12T00:30:53.910268+00:00",
+  "last_sync_sgt": "2026-10-12 08:30 SGT",
   "ftp": 315,
   "w_prime": 24000,
   "w_prime_tau": 546,
@@ -20,11 +20,11 @@
     "running": "running.csv"
   },
   "rows": {
-    "cycling_deep": 215,
-    "lap_data": 1160,
-    "daily_health": 282,
-    "nutrition": 282,
-    "cycling_ability": 135,
+    "cycling_deep": 217,
+    "lap_data": 1166,
+    "daily_health": 283,
+    "nutrition": 283,
+    "cycling_ability": 136,
     "running": 3
   }
 }
