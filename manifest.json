@@ -1,6 +1,6 @@
 {
-  "last_sync_utc": "2026-10-19T05:00:56.907122+00:00",
-  "last_sync_sgt": "2026-10-19 13:00 SGT",
+  "last_sync_utc": "2026-10-20T00:30:48.120307+00:00",
+  "last_sync_sgt": "2026-10-20 08:30 SGT",
   "ftp": 315,
   "w_prime": 24000,
   "w_prime_tau": 546,
@@ -22,9 +22,9 @@
   "rows": {
     "cycling_deep": 224,
     "lap_data": 1181,
-    "daily_health": 290,
-    "nutrition": 290,
-    "cycling_ability": 143,
+    "daily_health": 291,
+    "nutrition": 291,
+    "cycling_ability": 144,
     "running": 3
   }
 }
